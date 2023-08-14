@@ -49,7 +49,7 @@ To [improve water heater efficiency](https://www.chooseaaronservices.com/plumbin
 - **Can I install a water heater myself?**
 While it's possible to [install a water heater](https://www.chooseaaronservices.com/plumbing-services/water-heaters/) yourself, it's recommended to hire a professional plumber. Proper installation requires knowledge of local codes, safety precautions, and plumbing connections. Incorrect installation can lead to safety hazards, inefficient operation, and voided warranties. 
 - **What should I do if my water heater is leaking?**
-If your [water heater is leaking](https://www.chooseaaronservices.com/plumbing-services/water-heaters/water-heater-leaking/), turn off the power supply and water source to the unit. Leaks can be caused by a faulty valve, corroded tank, or pressure issues. Contact a plumber immediately to assess the situation and perform necessary repairs or replacements. 
+If your [water heater is leaking](https://www.chooseaaronservices.com/plumbing-services/water-heaters/water-heater-leaking/), turn off the power supply and water source to the unit. Leaks can be caused by a faulty valve, corroded tank, or pressure issues. Contact a plumber immediately to assess the situation and perform necessary [water heater repairs](https://www.chooseaaronservices.com/plumbing-services/water-heaters/) or replacements. 
 - **What size water heater do I need?**
 The size of the water heater you need depends on factors like household size, water usage, and the number of fixtures. A plumber can help determine the appropriate size based on your specific needs to ensure a sufficient supply of hot water. 
 - **How long does a water heater typically last?**
@@ -63,7 +63,7 @@ Prevent clogs by avoiding pouring grease, coffee grounds, and large food particl
 - **Why is my toilet backing up into the bathtub?**
 A toilet backing up into the bathtub can indicate a clog in the main sewer line. This issue requires professional attention, as it could be caused by a blockage or a more serious plumbing problem. Contact a plumber to diagnose and resolve the issue. 
 - **Can tree roots damage my sewer line?**
-Yes, tree roots can infiltrate and damage sewer lines, seeking moisture and nutrients. This can lead to blockages and leaks. Regular inspections, avoiding planting trees near sewer lines, and using root barriers can help prevent root-related sewer issues. 
+Yes, tree roots can infiltrate and damage sewer lines, seeking moisture and nutrients. This can lead to blockages and leaks. Regular [sewer line inspection](https://www.chooseaaronservices.com/plumbing-services/sewer-and-drain-cleaning/sewer-line-inspection/), avoiding planting trees near sewer lines, and using root barriers can help prevent root-related sewer issues. 
 - **What are signs of a sewer line blockage?**
 Signs of a sewer line blockage include slow draining sinks, toilets, and tubs, gurgling sounds, and sewage backups. Foul odors and wet spots in the yard can also indicate a problem. If you notice these signs, contact a plumber to assess and clear the blockage. 
 - **How can I locate a sewer line clog?**
@@ -87,7 +87,7 @@ A leaky showerhead can be due to a worn-out washer or a loose connection. Try ti
 - **Why is there low water pressure in my bathroom?**
 Low water pressure in the bathroom can result from mineral buildup in the faucet aerator, a partially closed shut-off valve, or plumbing issues. Clean or replace the aerator, ensure the shut-off valve is fully open, and check for other possible obstructions in the pipes. 
 - **How do I fix a bathtub drain that's not draining?**
-If your bathtub drain is clogged, start by removing hair and debris from the drain cover. Use a plunger or a drain snake to clear the clog. For stubborn clogs, consider using a natural mixture of baking soda and vinegar. If the issue persists, contact a plumber for assistance. 
+If your bathtub drain is clogged, start by removing hair and debris from the drain cover. Use a plunger or a drain snake to clear the clog. For stubborn clogs, consider using a natural mixture of baking soda and vinegar. [Bathroom plumbing](https://www.chooseaaronservices.com/professional-tips/plumbing/the-ugly-truth-about-your-bathroom-plumbing-dont-let-it-drain-your-wallet/) can get overwhelming even for the most ambitious folks, contact a plumber for assistance.  
 - **How do I unclog a toilet?**
 Use a plunger to unclog a toilet by creating a seal and applying pressure to dislodge the blockage. If the plunger doesn't work, try using a toilet auger or a combination of baking soda and vinegar. If the clog persists, it's best to consult a plumber to prevent further damage. 
 - **How can I prevent mold in my bathroom?**
