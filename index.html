@@ -1,37 +1,19 @@
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-  <style>.cd-faq__items { // on mibile, faq contents slides in from the right
-  position: fixed;
-  height: 100%;
-  width: 90%;
-  top: 0;
-  right: 0;
-  transform: translateZ(0) translateX(100%);
-  transition: transform .3s;
-}
-
-.cd-faq__items--slide-in {
-  transform: translateX(0);
-}
-    @include breakpoint(md) {
-  .cd-faq {
-    display: flex;
-  }
-
-  .cd-faq__categories {
-    position: sticky; // fix element on scrolling
-    top: 20px;
-    width: 200px;
-  }
-
-  .cd-faq__items {
-    flex-grow: 1;
-  }
-}
-  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>document.getElementsByTagName("html")[0].className += " js";</script>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <title>100 Plumbing Questions | by Aaron Plumbing</title>
 </head>
 <body>
-  <h1>100 Plumbing Questions</h1>
+<header class="cd-header flex flex-column flex-center">
+  <div class="text-component text-center">
+    <h1>100 Plumbing Questions</h1>
+    <p>Created by <a class="cd-article-link" href="https://www.chooseaaronservices.com/">Aaron PLumbing</a></p>
+  </div>
+</header>
 <section class="cd-faq js-cd-faq container max-width-md margin-top-lg margin-bottom-lg">
   <ul class="cd-faq__categories">
     <li><a class="cd-faq__category cd-faq__category-selected truncate" href="#general-plumbing">General Plumbing</a></li>
