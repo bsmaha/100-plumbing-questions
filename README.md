@@ -1,4 +1,4 @@
-# 100 Plumbing Questions Created by [Aaron PLumbing](https://www.chooseaaronservices.com/) 
+# 100 Plumbing Questions Created by [Aaron Plumbing](https://www.chooseaaronservices.com/) 
 ## Table of Contents:
 - [General Plumbing](#general-plumbing)
 - [Water Heaters](#water-heaters)
