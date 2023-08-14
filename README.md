@@ -1,6 +1,6 @@
 # 100 Plumbing Questions Created by [Aaron PLumbing](https://www.chooseaaronservices.com/) 
 - [General Plumbing](#general-plumbing) - [Water Heaters](#water-heaters) - [Drain and Sewer](#drain-sewer) - [Bathroom Plumbing](#bathroom-plumbing) - [Kitchen Plumbing](#kitchen-plumbing) - [Pipe and Fittings](#pipe-fittings) - [Maintenance and Prevention](#maintenance-prevention) - [Emergency Situations](#emergency-situations) - [Installation and Upgrades](#installation-upgrades) - [Costs and Budgeting](#costs-budgeting)
--
+<a name="general-plumbing"></a>
 General Plumbing
 - [What causes a dripping faucet?](#0)
 A dripping faucet is often caused by a worn-out washer or O-ring in the faucet assembly. Replacing these components can usually stop the drip. Regular maintenance can prevent leaks and extend the faucet's lifespan. 
@@ -22,7 +22,7 @@ A slow-draining sink is often caused by a clog in the pipes. You can try using a
 To prevent plumbing leaks, conduct regular inspections of visible pipes and fixtures for signs of moisture or corrosion. Address any leaks promptly and avoid using excessive force when turning faucets or valves. Proper maintenance and quick repairs can help extend the life of your plumbing system. 
 - [How do I locate my main water shut-off valve?](#0)
 The main water shut-off valve is usually located near where the water supply enters your home. It can be in the basement, crawl space, utility room, or near the water meter. Knowing the location of this valve is crucial for quickly stopping the water supply in case of emergencies or repairs. 
--
+<a name="water-heaters"></a>
 Water Heaters
 - [What is a tankless water heater?](#0)
 A tankless water heater, also known as an on-demand water heater, heats water directly as it flows through the unit. It doesn't store hot water in a tank like traditional water heaters. Tankless heaters offer energy efficiency and provide a continuous supply of hot water, but their installation requirements and costs may differ from conventional heaters. 
@@ -44,7 +44,7 @@ The size of the water heater you need depends on factors like household size, wa
 The lifespan of a water heater varies depending on factors like the type of heater, water quality, and maintenance. Conventional tank water heaters usually last around 10-15 years, while tankless heaters can last 20 years or more with proper care. 
 - [Why is my water not getting hot enough?](#0)
 Inadequate hot water can be due to a malfunctioning thermostat, a faulty heating element, or sediment buildup. Check the thermostat settings and reset if necessary. If the issue persists, consider consulting a plumber to diagnose and resolve the problem. 
--
+<a name="drain-sewer"></a>
 Drain and Sewer
 - [How can I prevent clogs in my drains?](#0)
 Prevent clogs by avoiding pouring grease, coffee grounds, and large food particles down the drain. Use drain screens to catch hair and debris. Regularly flush drains with hot water and consider using a natural mixture of baking soda and vinegar to break down buildup. 
