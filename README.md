@@ -15,15 +15,15 @@
 <a name="general-plumbing"></a>
 ## General Plumbing
 - **What causes a dripping faucet?**
-A dripping faucet is often caused by a worn-out washer or O-ring in the faucet assembly. Replacing these components can usually stop the drip. Regular maintenance can prevent leaks and extend the faucet's lifespan. 
+A dripping faucet is often caused by a worn-out washer or O-ring in the faucet assembly. Replacing these components can usually stop the drip. Regular maintenance can prevent leaks and extend the faucet's lifespan. [Learn more about faucet and fixture repair and replacement](https://www.chooseaaronservices.com/plumbing-services/faucet-replacement/) 
 - **How can I prevent frozen pipes during winter?**
 To prevent frozen pipes during winter, insulate exposed pipes and disconnect garden hoses. Allowing indoor faucets to drip during extreme cold can help prevent freezing. Proper insulation and preventive measures can protect pipes from freezing and potential damage. 
 - **What should I do if my toilet is running constantly?**
-If your toilet is running continuously, it may be due to a faulty flapper valve or a misadjusted float. Check the flapper for proper sealing and adjust the float level to the correct position. If these solutions don't work, consider contacting a plumber for further inspection. 
+If your [toilet is running continuously](https://www.chooseaaronservices.com/plumbing-services/toilet-repair-and-installation/), it may be due to a faulty flapper valve or a misadjusted float. Check the flapper for proper sealing and adjust the float level to the correct position. If these solutions don't work, consider contacting a plumber for further inspection.  
 - **Why is my water pressure low?**
 Low water pressure can result from various factors, including sediment buildup in pipes, a partially closed shut-off valve, or a leak in the plumbing system. Inspect the shut-off valve, clean faucet aerators, and address any visible leaks to improve water pressure. 
 - **Can I use chemical drain cleaners?**
-While chemical drain cleaners can clear minor clogs, they can damage pipes and are harmful to the environment. It's better to use natural methods like baking soda and vinegar, or mechanical solutions like drain snakes, to clear stubborn clogs safely and effectively. 
+While chemical drain cleaners can clear minor clogs, they can damage pipes and are harmful to the environment. It's better to use natural methods like baking soda and vinegar, or mechanical solutions like drain snakes, to clear stubborn clogs safely and effectively. However, it would be recommended to seek [professional drain cleaning services](https://www.chooseaaronservices.com/plumbing-services/sewer-and-drain-cleaning/sewer-line-inspection/). 
 - **How often should I have my septic tank pumped?**
 The frequency of septic tank pumping depends on factors like household size and usage. Generally, septic tanks should be pumped every 3 to 5 years to prevent sludge buildup and maintain proper functioning. Regular pumping helps avoid costly septic system issues. 
 - **What causes my drains to gurgle?**
