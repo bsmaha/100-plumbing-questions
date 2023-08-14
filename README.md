@@ -45,17 +45,17 @@ Strange noises from a water heater can be due to sediment buildup, a malfunction
 - **What is the anode rod in a water heater?**
 The anode rod is a sacrificial rod made of magnesium or aluminum that is installed inside the water heater tank. It helps prevent corrosion by attracting minerals and sediments that would otherwise corrode the tank. Regularly inspect and replace the anode rod to protect the tank and extend the life of the water heater. 
 - **How do I increase the efficiency of my water heater?**
-To improve water heater efficiency, consider insulating hot water pipes, adjusting the thermostat to a reasonable temperature, and installing a timer to regulate operation. Regular maintenance, like flushing the tank and inspecting the anode rod, can also help maintain efficiency and reduce energy consumption. 
+To [improve water heater efficiency](https://www.chooseaaronservices.com/plumbing-services/water-heaters/energy-efficient-water-heater/), consider insulating hot water pipes, adjusting the thermostat to a reasonable temperature, and installing a timer to regulate operation. Regular maintenance, like flushing the tank and inspecting the anode rod, can also help maintain efficiency and reduce energy consumption. 
 - **Can I install a water heater myself?**
-While it's possible to install a water heater yourself, it's recommended to hire a professional plumber. Proper installation requires knowledge of local codes, safety precautions, and plumbing connections. Incorrect installation can lead to safety hazards, inefficient operation, and voided warranties. 
+While it's possible to [install a water heater](https://www.chooseaaronservices.com/plumbing-services/water-heaters/) yourself, it's recommended to hire a professional plumber. Proper installation requires knowledge of local codes, safety precautions, and plumbing connections. Incorrect installation can lead to safety hazards, inefficient operation, and voided warranties. 
 - **What should I do if my water heater is leaking?**
-If your water heater is leaking, turn off the power supply and water source to the unit. Leaks can be caused by a faulty valve, corroded tank, or pressure issues. Contact a plumber immediately to assess the situation and perform necessary repairs or replacements. 
+If your [water heater is leaking](https://www.chooseaaronservices.com/plumbing-services/water-heaters/water-heater-leaking/), turn off the power supply and water source to the unit. Leaks can be caused by a faulty valve, corroded tank, or pressure issues. Contact a plumber immediately to assess the situation and perform necessary repairs or replacements. 
 - **What size water heater do I need?**
 The size of the water heater you need depends on factors like household size, water usage, and the number of fixtures. A plumber can help determine the appropriate size based on your specific needs to ensure a sufficient supply of hot water. 
 - **How long does a water heater typically last?**
 The lifespan of a water heater varies depending on factors like the type of heater, water quality, and maintenance. Conventional tank water heaters usually last around 10-15 years, while tankless heaters can last 20 years or more with proper care. 
 - **Why is my water not getting hot enough?**
-Inadequate hot water can be due to a malfunctioning thermostat, a faulty heating element, or sediment buildup. Check the thermostat settings and reset if necessary. If the issue persists, consider consulting a plumber to diagnose and resolve the problem. 
+Inadequate hot water can be due to a malfunctioning thermostat, a faulty heating element, or sediment buildup. Check the thermostat settings and reset if necessary. If the issue persists, consider consulting a [water heater expert](https://www.chooseaaronservices.com/plumbing-services/water-heaters/) to diagnose and resolve the problem. 
 <a name="drain-sewer"></a>
 ## Drain and Sewer
 - **How can I prevent clogs in my drains?**
