@@ -1,0 +1,3 @@
+[submodule "assets/codyhouse-framework"]
+	path = assets/codyhouse-framework
+	url = https://github.com/bsmaha/codyhouse-framework.git
