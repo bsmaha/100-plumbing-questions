@@ -161,7 +161,11 @@ Proper plumbing maintenance is crucial for preventing problems. Regularly inspec
 - **What should I do before leaving for an extended vacation?**
 Before leaving for an extended vacation, turn off the main water supply to prevent leaks or flooding. Drain the pipes by opening faucets and flushing toilets. Set the thermostat to a lower temperature to save energy. Ask a neighbor or friend to check on your home periodically to ensure everything is in order. 
 - **How can I avoid clogs in my garbage disposal?**
-To avoid clogs in your garbage disposal, avoid putting fibrous, starchy, or greasy foods down the drain. Run cold water while using the disposal to help flush debris. Regularly clean the disposal by grinding ice cubes and citrus peels to remove buildup. Using the disposal properly and maintaining it can prevent common clogs. 
+To avoid clogs in your garbage disposal, avoid putting fibrous, starchy, or greasy foods down the drain. Run cold water while using the disposal to help flush debris. Regularly clean the disposal by grinding ice cubes and citrus peels to remove buildup. Using the disposal properly and maintaining it can prevent common clogs.
+- **How can I prevent foul odors from my drains?**
+To prevent unpleasant odors from drains, avoid pouring grease, oils, and food scraps down the sink. Run hot water and a mixture of baking soda and vinegar down the drain to break down residue. Regularly clean and sanitize your garbage disposal by grinding ice cubes and citrus peels. Installing drain traps or stoppers can also prevent debris from causing odors. If odors persist, consult a plumber to check for underlying issues.
+- **What's the importance of water pressure maintenance?**
+Proper water pressure is essential for optimal plumbing performance. High water pressure can strain pipes and fixtures, leading to leaks and damage over time. Low water pressure can result from clogs or issues with the water supply. Regularly monitor your water pressure using a pressure gauge and ensure it falls within the recommended range. If you notice sudden changes in pressure, consult a plumber to diagnose and address the cause. Maintaining balanced water pressure safeguards your plumbing system and enhances its longevity.
 <a name="emergency-situations"></a>
 ## Emergency Situations
 - **What should I do in case of a burst pipe?**
