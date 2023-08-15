@@ -10,4 +10,4 @@
 );
 
 @use 'custom-style';
-@use 'components/**/*.scss' as components;
+@use 'components/_1_list.scss';
