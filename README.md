@@ -149,7 +149,7 @@ Conserving water helps the environment and lowers utility bills. Install low-flo
 - **How can I extend the lifespan of my water heater?**
 To extend the lifespan of your water heater, drain the tank annually to remove sediment buildup. Test the pressure relief valve and replace it if necessary. Insulate the hot water pipes to reduce heat loss and save energy. Regular maintenance and flushing can help your water heater operate efficiently and last longer. 
 - **What should I do if my water pressure is too high?**
-High water pressure can damage pipes and appliances. Use a water pressure gauge to measure the pressure and ensure it's within a safe range (usually 40-60 psi). If it's too high, consider installing a pressure reducing valve (PRV) to regulate the pressure. PRVs help protect your plumbing system and extend its lifespan. 
+High water pressure can damage pipes and appliances. Use a water pressure gauge to measure the pressure and ensure it's within a safe range (usually 40-60 psi). If it's too high, consider contacting   plumber to replace your pressure reducing valve (PRV). These valves are essential to regulate the pressure in your home. PRVs help protect your plumbing system and extend its lifespan.
 - **What's the best way to thaw frozen pipes?**
 If your pipes are frozen, you can thaw them by applying gentle heat. Use a hair dryer, heating pad, or towels soaked in hot water. Avoid using an open flame, as it can cause damage or start a fire. Start thawing near the faucet and work your way toward the frozen area. Once thawed, leave faucets open to allow water to flow and prevent pressure buildup. 
 - **Is it necessary to flush my water heater?**
