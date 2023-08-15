@@ -185,7 +185,9 @@ If your toilet is overflowing, turn off the water supply to the toilet by closin
 - **What should I do if my water is discolored?**
 If your water is discolored, it may indicate rust or sediment in the pipes. Run cold water from the faucet to flush out any debris. If the problem persists, contact your water utility company to inquire about water quality issues. Discolored water could also be a sign of a larger plumbing problem, so consider consulting a professional plumber for a thorough inspection. 
 - **What should I do if my bathtub or sink won't drain?**
-If your bathtub or sink won't drain, try using a plunger to create suction and dislodge the clog. If that doesn't work, remove the drain stopper or strainer and attempt to remove the clog manually. Avoid using chemical drain cleaners, as they can be harsh on pipes and the environment. If the clog persists, contact a plumber for [professional unclogging services](https://www.chooseaaronservices.com/plumbing-services/sewer-and-drain-cleaning/). 
+If your bathtub or sink won't drain, try using a plunger to create suction and dislodge the clog. If that doesn't work, remove the drain stopper or strainer and attempt to remove the clog manually. Avoid using chemical drain cleaners, as they can be harsh on pipes and the environment. If the clog persists, contact a plumber for [professional unclogging services](https://www.chooseaaronservices.com/plumbing-services/sewer-and-drain-cleaning/).
+- **What steps should I take if there's a water leak while I'm away from home?**
+If you discover a water leak at home while you're away, take immediate action to minimize damage. Turn off the main water supply remotely if you have a smart water shut-off valve installed. If not, consider asking a trusted neighbor or friend to turn off the water for you. Inform them of the location of the main shut-off valve. Reach out to a professional plumber as soon as possible to assess and repair the leak, preventing further water damage to your property.
 <a name="installation-upgrades"></a>
 ## Installation and Upgrades
 - **How do I choose the right water heater for my home?**
