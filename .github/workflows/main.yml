@@ -1,7 +1,4 @@
-on:
-  push:
-    branches:
-      - src-pages
+on: workflow_dispatch
 
 
 jobs:
