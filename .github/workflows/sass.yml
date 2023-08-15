@@ -7,5 +7,5 @@ jobs:
       - name: Compile style.css from style.scss
         uses: gha-utilities/sass-build@v0.5.1
         with:
-          source: ../assets/css/style.scss
-          destination: ./assets/css/style.scss
+          source: assets/css/style.scss
+          destination: assets/css/style.scss
