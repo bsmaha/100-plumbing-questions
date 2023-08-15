@@ -161,7 +161,7 @@ To avoid clogs in your garbage disposal, avoid putting fibrous, starchy, or grea
 <a name="emergency-situations"></a>
 ## Emergency Situations
 - **What should I do in case of a burst pipe?**
-In case of a burst pipe, immediately turn off the main water supply to prevent further flooding. Open faucets to drain excess water and minimize damage. Catch the water using buckets or towels, and contact a plumber for repairs. If the water is near electrical outlets, appliances, or the electrical panel, turn off the electricity to ensure safety. 
+In case of a burst pipe, immediately turn off the main water supply to prevent further flooding. Open faucets to drain excess water and minimize damage. Catch the water using buckets or towels, and [contact a plumber for repairs](https://www.chooseaaronservices.com/aaron-plumbing/contact/). If the water is near electrical outlets, appliances, or the electrical panel, turn off the electricity to ensure safety. 
 - **What should I do if there's a gas leak?**
 If you suspect a gas leak, evacuate the building immediately and avoid using anything that could create a spark, including light switches and electronic devices. Do not use phones inside the building. Once outside, call the gas company's emergency line and do not re-enter until it's declared safe. Gas leaks are hazardous and require prompt attention. 
 - **How can I stop a running toilet?**
@@ -178,26 +178,6 @@ If your toilet is overflowing, turn off the water supply to the toilet by closin
 If your water is discolored, it may indicate rust or sediment in the pipes. Run cold water from the faucet to flush out any debris. If the problem persists, contact your water utility company to inquire about water quality issues. Discolored water could also be a sign of a larger plumbing problem, so consider consulting a professional plumber for a thorough inspection. 
 - **What should I do if my bathtub or sink won't drain?**
 If your bathtub or sink won't drain, try using a plunger to create suction and dislodge the clog. If that doesn't work, remove the drain stopper or strainer and attempt to remove the clog manually. Avoid using chemical drain cleaners, as they can be harsh on pipes and the environment. If the clog persists, contact a plumber for [professional unclogging services](https://www.chooseaaronservices.com/plumbing-services/sewer-and-drain-cleaning/). 
-<a name="drain-sewer"></a>
-## Emergency Situations
-- **What should I do in case of a burst pipe?**
-In case of a burst pipe, immediately turn off the main water supply to prevent further flooding. Open faucets to drain excess water and minimize damage. Catch the water using buckets or towels, and [contact a plumber for repairs](https://www.chooseaaronservices.com/aaron-plumbing/contact/). If the water is near electrical outlets, appliances, or the electrical panel, turn off the electricity to ensure safety. 
-- **What should I do if there's a gas leak?**
-If you suspect a gas leak, evacuate the building immediately and avoid using anything that could create a spark, including light switches and electronic devices. Do not use phones inside the building. Once outside, call the gas company's emergency line and do not re-enter until it's declared safe. Gas leaks are hazardous and require prompt attention. 
-- **How can I stop a running toilet?**
-If your toilet is running continuously, open the toilet tank and check the flapper valve. Adjust or replace the flapper if it's not sealing properly. If the problem persists, adjust the float arm or water level in the tank. If you're unable to stop the running water, turn off the water supply to the toilet until it's repaired. 
-- **What should I do if my water heater is leaking?**
-If your water heater is leaking, turn off the power supply and the water supply to the heater. Drain the tank by attaching a hose to the drain valve and directing it to a safe location. Contact a plumber to assess the cause of the leak and determine if repairs or replacement are necessary to prevent further water damage. 
-- **How do I shut off the water supply to my house?**
-To shut off the water supply to your house, locate the main shut-off valve. This valve is typically located near where the water main enters the house or in the basement. Turn the valve clockwise (right) to shut off the water. If you're unable to turn the valve or there's an emergency, contact your water utility company or a professional plumber. 
-- **What should I do if my sewer line is clogged?**
-If your sewer line is clogged and causing backups, avoid using plumbing fixtures and turn off the water supply if necessary. Do not use chemical drain cleaners, as they can worsen the clog. Contact a professional plumber to inspect the sewer line, identify the blockage, and use specialized tools to clear the clog and restore proper drainage. 
-- **What should I do if my toilet is overflowing?**
-If your toilet is overflowing, turn off the water supply to the toilet by closing the shut-off valve located behind or beside the toilet. Open the tank lid and lift the float to stop water flow. If the water doesn't stop, remove the lid and press down on the flapper valve to create a seal. If the problem continues, contact a plumber to address the issue. 
-- **What should I do if my water is discolored?**
-If your water is discolored, it may indicate rust or sediment in the pipes. Run cold water from the faucet to flush out any debris. If the problem persists, contact your water utility company to inquire about water quality issues. Discolored water could also be a sign of a larger plumbing problem, so consider consulting a professional plumber for a thorough inspection. 
-- **What should I do if my bathtub or sink won't drain?**
-If your bathtub or sink won't drain, try using a plunger to create suction and dislodge the clog. If that doesn't work, remove the drain stopper or strainer and attempt to remove the clog manually. Avoid using chemical drain cleaners, as they can be harsh on pipes and the environment. If the clog persists, contact a plumber for professional unclogging services. 
 <a name="installation-upgrades"></a>
 ## Installation and Upgrades
 - **How do I choose the right water heater for my home?**
