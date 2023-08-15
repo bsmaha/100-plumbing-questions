@@ -109,7 +109,7 @@ A leaking kitchen faucet can be caused by worn-out seals, O-rings, or cartridges
 - **Why does my kitchen faucet have low water pressure?**
 Low water pressure in the kitchen faucet can be due to mineral buildup in the aerator, a clogged water supply line, or issues with the shut-off valve. Clean or replace the aerator, check for kinks or blockages in the supply line, and ensure the shut-off valve is fully open. 
 - **How do I unclog a garbage disposal?**
-If your garbage disposal is clogged, turn off the power and avoid putting your hands inside. Use a wooden spoon or tongs to dislodge any debris. Once clear, run cold water and turn on the disposal. Avoid using chemical drain cleaners, as they can damage the unit. 
+If your [garbage disposal is clogged](https://www.chooseaaronservices.com/plumbing-services/garbage-disposal-repair/), turn off the power and avoid putting your hands inside. Use a wooden spoon or tongs to dislodge any debris. Once clear, run cold water and turn on the disposal. Avoid using chemical drain cleaners, as they can damage the unit. 
 - **How do I prevent a smelly kitchen sink?**
 To prevent a smelly kitchen sink, avoid pouring grease, oil, and food scraps down the drain. Use a sink strainer to catch debris, and run cold water while using the garbage disposal to flush particles. Periodically clean the sink and disposal with a mixture of baking soda and vinegar to eliminate odors. 
 - **Why is there water under my kitchen sink?**
