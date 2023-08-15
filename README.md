@@ -119,7 +119,9 @@ To replace a kitchen sink sprayer, turn off the water supply, detach the old spr
 - **Can I fix a dishwasher that's not draining?**
 If your dishwasher is not draining, check for debris or food particles clogging the drain basket or filter. Clean these components and test the dishwasher. If the issue persists, there may be a problem with the drain pump or hose. Consult the dishwasher's manual or a professional plumber for further assistance. 
 - **What should I do if my kitchen sink is leaking from the faucet base?**
-A kitchen sink leaking from the faucet base can be due to a worn-out O-ring or seal. Turn off the water supply, disassemble the faucet, and replace the damaged components. Apply plumber's grease to the new O-ring before reassembling. Turn on the water supply and check for leaks. 
+A kitchen sink leaking from the faucet base can be due to a worn-out O-ring or seal. Turn off the water supply, disassemble the faucet, and replace the damaged components. Apply plumber's grease to the new O-ring before reassembling. Turn on the water supply and check for leaks.
+- **How can I prevent my kitchen sink from getting clogged?**
+To prevent kitchen sink clogs, be mindful of what goes down the drain. Avoid disposing of large food scraps, oil, grease, and fibrous materials like coffee grounds down the sink. Use a sink strainer to catch debris, and regularly clean it. Run hot water down the drain after each use to help prevent grease buildup. If you experience slow drainage, consider using a mixture of baking soda and vinegar to keep the pipes clear. If clogs persist, consult a [kitchen plumbing specialist](https://www.chooseaaronservices.com/professional-tips/plumbing/the-ugly-truth-about-your-bathroom-plumbing-dont-let-it-drain-your-wallet/) to assess the issue.
 <a name="pipe-fittings"></a>
 ## Pipe and Fittings
 - **What are the different types of plumbing pipes?**
