@@ -141,7 +141,9 @@ Yes, compression fittings are commonly used to connect two pipes. They consist o
 - **What is a pressure relief valve?**
 A pressure regulating valve is a specialized component designed to control the water pressure within pipes and fixtures. It automatically adjusts the incoming water pressure from the main supply line to a set level, preventing excessively high pressure that could damage pipes, appliances, and faucets. By maintaining a consistent and safe pressure, the valve helps extend the lifespan of plumbing components and reduces the risk of leaks or bursts, ensuring efficient water distribution throughout the system.
 - **How do I prevent frozen pipes in cold weather?**
-To prevent frozen pipes in cold weather, insulate exposed pipes using foam sleeves or heat tape. Keep cabinet doors open to allow warm air to circulate around pipes. Let faucets drip slightly to keep water flowing and prevent freezing. If you're away, set the thermostat to a minimum temperature to avoid extreme cold affecting the pipes. 
+To prevent frozen pipes in cold weather, insulate exposed pipes using foam sleeves or heat tape. Keep cabinet doors open to allow warm air to circulate around pipes. Let faucets drip slightly to keep water flowing and prevent freezing. If you're away, set the thermostat to a minimum temperature to avoid extreme cold affecting the pipes.
+- **How do I determine the right pipe size for my plumbing project?**
+Choosing the correct pipe size is crucial for a successful plumbing project. Factors such as water flow, pressure, and the type of fixture you're connecting play a role. Standard pipe sizing uses nominal sizes, which may not match the actual dimensions. Consult plumbing charts or online resources to understand the relationship between nominal and actual sizes. It's advisable to consult a [local plumber](https://www.chooseaaronservices.com/) or refer to local building codes to ensure you're using the appropriate pipe size for your specific needs.
 <a name="maintenance-prevention"></a>
 ## Maintenance and Prevention
 - **How often should I clean my drains?**
